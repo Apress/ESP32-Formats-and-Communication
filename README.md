@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*ESP32 Formats and Communication: Application of Communication Protocols with ESP32 Microcontroller*](https://www.link.springer.com/book/10.1007/9781484293782) by Neil Cameron (Apress, 2023).
+This repository accompanies [*ESP32 Formats and Communication: Application of Communication Protocols with ESP32 Microcontroller*](https://www.link.springer.com/book/10.1007/978-1-4842-9378-2) by Neil Cameron (Apress, 2023).
 
 [comment]: #cover
 ![Cover image](9781484293782.JPG)
